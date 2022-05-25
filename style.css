@@ -250,3 +250,40 @@ h1 {
       font-weight: bold;
       font-size: 123%;      
 }
+
+/*---------- Classes ----------*/
+.heading{
+      background: #c20404;
+      border-bottom: 4px solid #828282;
+      height: 25px;
+}
+
+.subheading-white{
+      color: #fff;
+      margin: 0px;
+      padding: 5px 0 0 10px;
+      font-size: 115%;
+      font-weight: bold;
+      
+}
+
+.p-indent{
+      padding-top: 0px;
+      padding-left: 10px;
+}
+
+/*---------- Cards ----------*/
+
+.slikaKarte {
+      height: 300px;
+      width: 220px;
+}
+
+.card-title{
+      font-size:larger;
+}
+
+.card{
+      height: 500px;
+      width: 400px;
+}
